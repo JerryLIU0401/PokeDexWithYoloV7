@@ -1,0 +1,23 @@
+names:
+- Abra
+- Alakazam
+- Blastoise
+- Bulbasaur
+- Charizard
+- Charmander
+- Charmeleon
+- Ivysaur
+- Kadabra
+- Squirtle
+- Venusaur
+- Wartortle
+nc: 12
+roboflow:
+  license: Private
+  project: pokedex-lcy8c
+  url: https://app.roboflow.com/pokemon-weg6e/pokedex-lcy8c/6
+  version: 6
+  workspace: pokemon-weg6e
+test: ../test/images
+train: Pokedex-6/train/images
+val: Pokedex-6/valid/images
